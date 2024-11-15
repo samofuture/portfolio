@@ -20,10 +20,5 @@
         "sugar-high": "^0.6.1",
         "typescript": "5.3.3"
     },
-    "devDependencies": {
-        "autoprefixer": "^10.4.20",
-        "postcss": "^8.4.49",
-        "tailwindcss": "4.0.0-alpha.34"
-    },
     "packageManager": "pnpm@9.13.1+sha512.5ac37545851c55ec58521b6c285db6f848f93ca70889beb4145f5b40fe234e4ea4faee4dad12ac5c139e494374c65d9c3a6ec9a25954378fa286a250e68d2f20"
 }
