@@ -15,10 +15,10 @@
         "geist": "1.2.2",
         "next": "canary",
         "next-mdx-remote": "^4.4.1",
-        "postcss":"^8.4.35",
+        "postcss": "^8.4.49",
         "react": "18.2.0",
         "react-dom": "18.2.0",
-        "sugar-high": "^0.6.0",
+        "sugar-high": "^0.6.1",
         "typescript": "5.3.3"
     },
     "packageManager": "pnpm@9.13.1+sha512.5ac37545851c55ec58521b6c285db6f848f93ca70889beb4145f5b40fe234e4ea4faee4dad12ac5c139e494374c65d9c3a6ec9a25954378fa286a250e68d2f20"
